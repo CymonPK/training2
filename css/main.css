@@ -1,0 +1,39 @@
+*{
+ 0px;
+}
+body{
+	width:960px;
+	margin:0px auto;
+}
+p{
+  color:black;
+}
+#para,.title{
+	color:white;
+}
+.header{
+	background:orange;
+	height:30px;
+	width:100%;
+}
+.title .para{
+	color:blue;
+	font-size:90px;
+}
+.row .main-content{
+	height:200px;
+	width:100%;
+	background:blue;
+}
+.row .sub-content{
+	height:500px;
+	width:100%;
+	background:yellow;
+}
+
+footer{
+	background:green;
+	width:100%;
+	height:100px;
+}
+
